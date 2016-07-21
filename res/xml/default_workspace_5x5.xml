@@ -208,7 +208,7 @@
             launcher:packageName="com.cyngn.cameranext"
             launcher:className="com.android.camera.CameraLauncher" />
         <favorite
-            launcher:packageName="org.pms.cameranextmodv7"
+            launcher:packageName="com.pms.cameranextmodv7"
             launcher:className="com.android.camera.CameraLauncher" />
         <favorite
             launcher:packageName="com.android.camera2"
