@@ -825,10 +825,10 @@ public class LauncherProvider extends ContentProvider {
                     migrateLauncherFavorite(db, "com.android.mms", "com.android.messaging",
                             "com.android.mms.ui.ConversationList",
                             "com.android.messaging.ui.conversationlist.ConversationListActivity");
-                    migrateLauncherFavorite(db, "com.android.camera2", "org.cyanogenmod.snap",
+                    migrateLauncherFavorite(db, "com.android.camera2", "com.pms.cameranextmod7",
                             "com.android.camera.CameraLauncher",
                             "com.android.camera.CameraLauncher");
-                    migrateLauncherFavorite(db, "org.cyanogenmod.snap", "com.android.camera2",
+                    migrateLauncherFavorite(db, "com.pms.cameranextmod7", "com.android.camera2",
                             "com.android.camera.CameraLauncher",
                             "com.android.camera.CameraLauncher");
                     migrateLauncherFavorite(db, "org.cyanogenmod.gello.browser", "com.android.browser",
