@@ -58,7 +58,7 @@
     <string name="icon_labels_hide">Hide</string>
 
     <!-- Protected apps -->
-    <string name="protected_app_settings">Protected apps</string>
+    <string name="protected_app_settings">App Lock</string>
 
     <!-- Developer settings -->
     <string name="export_workspace_layout">Export layout</string>
